@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="img/capa artigo-01.png"
-    width="400"  
+    width="800"  
   />
 </p>
 
