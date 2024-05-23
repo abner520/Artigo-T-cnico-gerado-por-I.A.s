@@ -1,3 +1,8 @@
+# Projeto Artigo Técnico gerado por I.A.s
+
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover nossa autoridade técnica. Para um dos desafios do Bootcamp do Santander 2024 com Parceria da [DIO](https://dio.me). Todas as ferramentas utilizadas estão abaixo.
+
+
 <p align="center">
   <img 
     src="img/capa artigo-01.png"
@@ -6,10 +11,6 @@
 </p>
 
 [🚨Clique aqui para ler o artigo🚨](https://web.dio.me/articles/bancos-de-dados-autonomos-a-nova-fronteira-da-automacao-com-ajuda-da-inteligencia-artificial?back=%2Farticles&open-modal=true&page=1&order=oldest)
-
-# Projeto Artigo Técnico gerado por I.A.s
-
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover nossa autoridade técnica. Para um dos desafios do Bootcamp do Santander 2024 com Parceria da [DIO](https://dio.me). Todas as ferramentas utilizadas estão abaixo.
 
 
 ## 💻 Tecnologias utilizadas no projeto
