@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src=".ARTIGO-DIO/img/capa artigo-01.png"
+    src="img/capa artigo-01.png"
     width="400"  
   />
 </p>
